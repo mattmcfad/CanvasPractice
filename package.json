@@ -1,5 +1,5 @@
 {
-  "name": "projectBoilerplate",
+  "name": "Canvas Demo",
   "version": "0.0.0",
   "description": "Matt McFadyen's boilerplate for a small project",
   "main": "Gruntfile.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmcfadyen91/gruntDemo.git"
+    "url": "https://github.com/mmcfadyen91/CanvasPractice.git"
   },
   "author": "@mattmcfad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mmcfadyen91/gruntDemo/issues"
+    "url": "https://github.com/mmcfadyen91/CanvasPractice/issues"
   },
-  "homepage": "https://github.com/mmcfadyen91/gruntDemo",
+  "homepage": "https://github.com/mmcfadyen91/CanvasPractice",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-stylus": "^0.18.0",
